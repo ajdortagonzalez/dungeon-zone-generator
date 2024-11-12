@@ -1,0 +1,48 @@
+{
+    "tables": {
+        "table1": {
+            "name": "Room Type",
+            "results": {
+                "1": "Corridor",
+                "2": "Corridor",
+                "3": "Corridor",
+                "4": "Room",
+                "5": "Room",
+                "6": "Room"
+            }
+        },
+        "table2": {
+            "name": "Corridor Length",
+            "results": {
+                "1": "1 Section",
+                "2": "1 Section",
+                "3": "1 Section",
+                "4": "2 Sections",
+                "5": "2 Sections",
+                "6": "3 Sections"
+            }
+        },
+        "table3": {
+            "name": "End of Hallway",
+            "results": {
+                "1": "Dead End",
+                "2": "T Shaped Junction",
+                "3": "X Shaped Junction",
+                "4": "Right Turn",
+                "5": "Left Turn",
+                "6": "Stairs"
+            }
+        },
+        "table4": {
+            "name": "Room Detail",
+            "results": {
+                "1": "Normal, small",
+                "2": "Normal, small",
+                "3": "Special, small",
+                "4": "Lair, big with treasure chest",
+                "5": "Lair, big with treasure chest",
+                "6": "Eng, big with treasure chest"
+            }
+        }
+    }
+}
