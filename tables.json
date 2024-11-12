@@ -34,6 +34,17 @@
             }
         },
         "table4": {
+            "name": "Corridor Contents",
+            "results": {
+                "1": "Nothing",
+                "2": "Monsters",
+                "3": "1 Door",
+                "4": "2 Doors",
+                "5": "Monsters and 1 Door",
+                "6": "Monsters and 2 Doors"
+            }   
+        },
+        "table5": {
             "name": "Room Detail",
             "results": {
                 "1": "Normal, small",
@@ -41,7 +52,62 @@
                 "3": "Special, small",
                 "4": "Lair, big with treasure chest",
                 "5": "Lair, big with treasure chest",
-                "6": "Eng, big with treasure chest"
+                "6": "End, big with treasure chest"
+            }   
+        },
+        "table6": {
+            "name": "Number of Doors",
+            "results": {
+                "1": "No Doors",
+                "2": "No Doors",
+                "3": "No Doors",
+                "4": "1 Door",
+                "5": "1 Door",
+                "6": "2 Doors"
+            }
+        },
+        "table7": {
+            "name": "Monster Threat Points",
+            "results": {
+                "1": "5 Points",
+                "2": "5 Points",
+                "3": "6 Points",
+                "4": "6 Points",
+                "5": "7 Points",
+                "6": "7 Points"
+            }
+        },
+        "table8": {
+            "name": "Monster Threat Points with Leader",
+            "results": {
+                "1": "8 Points",
+                "2": "9 Points",
+                "3": "10 Points",
+                "4": "11 Points",
+                "5": "12 Points",
+                "6": "14 Points"
+            }
+        },
+        "table9": {
+            "name": "Hidden Treasures",
+            "results": {
+                "1": "Nothing",
+                "2": "Treasure Card",
+                "3": "Treasure Card",
+                "4": "Treasure Card",
+                "5": "Treasure Card",
+                "6": "Treasure Card + 50Cr + Great Fortune!"
+            }
+        },
+        "table10": {
+            "name": "Great Fortune!",
+            "results": {
+                "1": "Nothing",
+                "2": "10Cr",
+                "3": "15Cr",
+                "4": "20Cr",
+                "5": "25Cr + Healing Potion",
+                "6": "30Cr + Healing Potion + Equipment Card up to 150Cr"
             }
         }
     }
